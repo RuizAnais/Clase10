@@ -1,0 +1,105 @@
+* {
+    padding: 0;
+    margin: 0;
+    
+}
+
+#contenedor {
+    width: 600px;
+    height: 650px; 
+    background-color: #95b8f6;
+    margin: 15px;
+    padding: 1px;
+    box-shadow: 20px 20px 10px rgba(112, 103, 103, 0.5);
+    border-radius: 8px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+header {
+    background-color: #add7ff;
+    margin: 1em;
+    height: 6%;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 3px rgba(112, 103, 103, 0.5);
+}
+
+#contenido {
+    height: 70%;
+    background-color: #f9d99a;
+    margin: 20px;
+    border-radius: 15px;
+    padding: 10px;
+    box-shadow: 5px 5px 3px rgba(112, 103, 103, 0.5);
+}
+
+section {
+    width: 33%;
+    height: 91%;
+    background-color: #fa5f49;
+    color: white;
+    margin-left: 20px;
+    margin-top: 16px;
+    border-radius: 15px;
+    text-align: center;
+    float: left;
+    font-family:Verdana;
+}
+h3 {
+    padding-top: 90%;
+}
+
+nav {
+    width: 55%;
+    height: 90%;
+    background-color:rgb(138, 209, 174);
+    margin: 16px;
+    padding: 2px;
+    border-radius: 15px;
+    text-align: center;
+    float: right;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+footer {
+    background-color: rgb(179, 231, 247);
+    margin: 1em;
+    height: 5%;
+    padding-top: 10px;
+    border-radius: 1em;
+    text-align: center;
+    box-shadow: 5px 5px 3px rgba(112, 103, 103, 0.5);
+    
+    }
+
+    p {
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+.boton1 {
+    width: 90%;
+    height: 6%;
+    background-color: rgb(241, 149, 28);
+    margin: 10px;
+    border-radius: 15px;
+    float: left;
+    color: white;
+    text-decoration: none;
+    box-shadow: 3px 3px 3px rgba(112, 103, 103, 0.5);
+}
+
+.boton2 {
+    width: 90%;
+    height: 6%;
+    background-color: rgb(36, 180, 36);
+    margin: 10px;
+    border-radius: 15px;
+    float: left;
+    color:white;
+    text-decoration: none;
+    box-shadow: 3px 3px 3px rgba(112, 103, 103, 0.5);
+}

@@ -1,0 +1,55 @@
+* {
+    margin: 20px;
+
+}
+.caja {
+    border: 1px solid orange;
+    margin: 20px;
+}
+
+.caja1 {
+    border: 1px dotted blue;
+    margin: 10px;
+}
+.caja2 {
+    width: 300px;
+    border: 1px dashed #17b9ea;
+    margin: 10px 30px 15px 12px; /* top - right - bottom - left*/
+
+}
+
+.caja3 {
+    border: 1px solid blue;
+    width: 500px;
+    padding: 10px;
+}
+
+.caja4 {
+    background-color: turquoise;
+    width: 50%;
+    margin: 10px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.caja5 {
+    background-color: rgb(253, 194, 117);
+    width: 50%;
+    margin: 10px;
+    padding: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 18px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 36px;
+}
+
+.clase6 {
+    background-color: #e5cc0e;
+    color: white;
+    width: 50%;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px 25px 15px 7px; /* t i - t d - b d - b i */
+    box-shadow: 10px -5px 25px blue inset; /* sombra derecha - sombra abajo */
+
+}
